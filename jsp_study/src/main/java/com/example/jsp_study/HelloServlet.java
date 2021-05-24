@@ -21,6 +21,7 @@ public class HelloServlet extends HttpServlet {
         out.println("<h1>" + message + "</h1>");
         out.println("</body></html>");
         System.out.println("Hello World!");
+        System.out.println("hot-fix");
 
     }
 
